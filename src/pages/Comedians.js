@@ -13,8 +13,14 @@ const Comedians = () => {
   }, []);
 
   const handleDelete = (id) => {
-    const tmpComedians = json.filter((comedian) => comedian.id !== id);
-    setJson(tmpComedians);
+    const getData = async () => {
+      await fetch(`http://localhost:3001/comedians/${id}`, {
+        method: "DELETE",
+      }).then(() => {
+        window.location.reload(true);
+      });
+    };
+    getData();
   };
 
   return (

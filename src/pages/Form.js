@@ -21,8 +21,6 @@ const Form = () => {
       body: JSON.stringify(newComedian),
     });
 
-    console.log(res);
-
     if (res.ok) {
       setName("");
       setImage("");

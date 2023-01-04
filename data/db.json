@@ -84,6 +84,16 @@
       "name": "Andrew Schulz",
       "image": "https://m.media-amazon.com/images/M/MV5BNGU1Y2QzMGUtMWJkNi00OTIzLWIxOTEtNDYwMzViMThiYmQ4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
       "id": 7
+    },
+    {
+      "name": "dog",
+      "image": "https://picsum.photos/id/237/536/354",
+      "id": 20
+    },
+    {
+      "name": "dog",
+      "image": "https://picsum.photos/id/237/536/354",
+      "id": 24
     }
   ]
 }

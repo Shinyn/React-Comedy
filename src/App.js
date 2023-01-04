@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import Error from "./pages/Error";
 import Form from "./pages/Form";
 import Comedians from "./pages/Comedians";
+import Solo from "./pages/Solo";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/form" element={<Form />} />
         <Route path="/comedians" element={<Comedians />} />
+        <Route path="/solo/:id" element={<Solo />} />
         <Route path="*" element={<Error />} />
       </Routes>
     </BrowserRouter>
