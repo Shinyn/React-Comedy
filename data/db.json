@@ -1,0 +1,89 @@
+{
+  "comedians": [
+    {
+      "name": "Louis CK",
+      "id": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Louis_C.K._on_Your_Moms_House_Podcast_2022.png/800px-Louis_C.K._on_Your_Moms_House_Podcast_2022.png",
+      "specials": [
+        "Live in Houston",
+        "Shameless",
+        "Chewed Up",
+        "Hilarious",
+        "Live at the Beacon Theater",
+        "Word: Live at Carnegie Hall",
+        "Oh My God",
+        "Live at the Comedy Store",
+        "Live at Madison Square Garden",
+        "2017",
+        "Sincerely Louis CK",
+        "Sorry"
+      ]
+    },
+    {
+      "name": "Joe Rogan",
+      "id": 2,
+      "image": "https://gray-kwqc-prod.cdn.arcpublishing.com/resizer/IjXbEcbVL2DJ0AaeOjRnNvWdsME=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/WUS6ESAOTJHR5P2SGAXQJZSVMY.jpg",
+      "specials": [
+        "I'm Gonna Be Dead Someday ...",
+        "'Voodoo Punanny'",
+        "Live from the Belly of the Beast",
+        "Joe Rogan: Live",
+        "Shiny Happy Jihad",
+        "Talking Monkeys in Space",
+        "Live from the Tabernacle",
+        "Rocky Mountain High",
+        "Triggered",
+        "Strange Times"
+      ]
+    },
+    {
+      "name": "Lee Evans",
+      "id": 3,
+      "image": "https://cdn.comedy.co.uk/images/library/comedies/900x450/l/lee_evans_monsters.jpg",
+      "specials": [
+        "Live at Her Majesty's Theatre",
+        "Live From The West End",
+        "Live – Different Planet Tour",
+        "Live in Scotland",
+        "Wired And Wonderful – Live at Wembley",
+        "XL Tour – Live",
+        "Big – Live at the O2",
+        "Roadrunner – Live at the O2",
+        "Monsters – Live"
+      ]
+    },
+    {
+      "name": "Dave Chappelle",
+      "id": 4,
+      "image": "https://www.gannett-cdn.com/-mm-/fe58c22eb8f4b42bb022b0029e0c742f85fef798/c=0-58-2456-1446/local/-/media/2016/11/13/Cincinnati/Cincinnati/636146305014318332-TV-SNL-Election-Vari.jpg?width=2560",
+      "specials": [
+        "Killin' Them Softly",
+        "For What It's Worth",
+        "The Age of Spin",
+        "Deep In The Heart of Texas",
+        "Equanimity",
+        "The Bird Revelation",
+        "Sticks & Stones",
+        "8:46",
+        "Unforgiven",
+        "Redemption Song",
+        "The Closer"
+      ]
+    },
+    {
+      "name": "Jim Jefferies",
+      "image": "https://occ-0-32-1567.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZbqgMKBUrLVJYR7YeQSRMB1bePaN8OaG6ZwXI9cMpxeA2odUT8bbcm5U7vrYumQhfCJXYJfhZqdLF7b-eH7p3If6BDay5FYxZsz.jpg?r=592",
+      "id": 5
+    },
+    {
+      "name": "Bill Burr",
+      "image": "https://billburr.com/wp-content/uploads/2019/10/bill-hero-1.jpg",
+      "id": 6
+    },
+    {
+      "name": "Andrew Schulz",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGU1Y2QzMGUtMWJkNi00OTIzLWIxOTEtNDYwMzViMThiYmQ4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+      "id": 7
+    }
+  ]
+}
